@@ -6,5 +6,6 @@ import AllJobs from "./dashboard/AllJobs";
 import Stats from "./dashboard/Stats";
 import Profile from "./dashboard/Profile";
 import SharedLayout from "./dashboard/SharedLayout";
+import ProtectedRoute from "./ProtectedRoute";
 
-export {Landing,Error,Register,AddJobs,AllJobs,Stats,Profile,SharedLayout}
+export {Landing,Error,Register,AddJobs,AllJobs,Stats,Profile,SharedLayout,ProtectedRoute }
