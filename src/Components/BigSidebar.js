@@ -19,4 +19,4 @@ const BigSidebar = () => {
   )
 }
 
-export default BigSidebar
+export default BigSidebar;
